@@ -18,7 +18,7 @@
             $('.header___3HlWc').append('<a href="https://vopoc.ths123.com/callout-ths/public/index.html#/account/manage/profile/81000002/2/task" style="color:white;margin:10px">同花顺测试账户</a>')
             $('.header___3HlWc').append('<a href="http://aics.ths123.com:10080/callout-thirdparty/public/index.html#/" style="color:Darkorange ;margin:10px" target="_blank" class="ant-btn">客户管理平台</a>')
                              },200)
-    //让网页标题显示当前模板
+    //让网页标题显示当前模板123
     $(function(){setTimeout(function(){
         var title2
         if($('.title___1-vbA')){title2=$('.title___1-vbA').text()}
